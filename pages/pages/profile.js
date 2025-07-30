@@ -8,7 +8,7 @@ const { Title, Paragraph } = Typography;
 
 export default function profile() {
   useEffect(() => {
-    message.success('Welcome to your profile!');
+    message.success('Welcome to my profile!');
   }, []);
 
   return (
